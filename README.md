@@ -1,7 +1,8 @@
 
 ---
 
-# Prediksi Keputusan Pengadilan Negeri dan Mahkamah Agung Terkait Kasus Pidana Pemalsuan Uang
+# Prediksi Keputusan Pengadilan Negeri dan Mahkamah Agung Terkait Kasus Pidana Pemalsuan Uang Menggunakan Case Based Reasoning
+
 
 Proyek ini mendemonstrasikan proses bertahap untuk menganalisis kasus hukum, yang terbagi menjadi lima tahapan. Berikut adalah gambaran umum dari skrip pada setiap tahapan.
 
